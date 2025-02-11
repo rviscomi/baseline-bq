@@ -1,0 +1,74 @@
+[
+    {
+        "name": "feature_id",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "feature_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "baseline_status",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "baseline_high_date",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "baseline_low_date",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "browser_support",
+        "type": "RECORD",
+        "mode": "REPEATED",
+        "fields": [
+            {
+                "name": "browser",
+                "type": "STRING",
+                "mode": "NULLABLE"
+            },
+            {
+                "name": "version",
+                "type": "STRING",
+                "mode": "NULLABLE"
+            },
+            {
+                "name": "release_date",
+                "type": "DATE",
+                "mode": "NULLABLE"
+            }
+        ]
+    },
+    {
+        "name": "description",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "description_html",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "compat_features",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "specs",
+        "type": "STRING",
+        "mode": "REPEATED"
+    },
+    {
+        "name": "groups",
+        "type": "STRING",
+        "mode": "REPEATED"
+    }
+]

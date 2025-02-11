@@ -1,0 +1,656 @@
+{"browser":"Chrome","version":"1","release_date":"2008-12-11"}
+{"browser":"Chrome","version":"2","release_date":"2009-05-21"}
+{"browser":"Chrome","version":"3","release_date":"2009-09-15"}
+{"browser":"Chrome","version":"4","release_date":"2010-01-25"}
+{"browser":"Chrome","version":"5","release_date":"2010-05-25"}
+{"browser":"Chrome","version":"6","release_date":"2010-09-02"}
+{"browser":"Chrome","version":"7","release_date":"2010-10-19"}
+{"browser":"Chrome","version":"8","release_date":"2010-12-02"}
+{"browser":"Chrome","version":"9","release_date":"2011-02-03"}
+{"browser":"Chrome","version":"10","release_date":"2011-03-08"}
+{"browser":"Chrome","version":"11","release_date":"2011-04-27"}
+{"browser":"Chrome","version":"12","release_date":"2011-06-07"}
+{"browser":"Chrome","version":"13","release_date":"2011-08-02"}
+{"browser":"Chrome","version":"14","release_date":"2011-09-16"}
+{"browser":"Chrome","version":"15","release_date":"2011-10-25"}
+{"browser":"Chrome","version":"16","release_date":"2011-12-13"}
+{"browser":"Chrome","version":"17","release_date":"2012-02-08"}
+{"browser":"Chrome","version":"18","release_date":"2012-03-28"}
+{"browser":"Chrome","version":"19","release_date":"2012-05-15"}
+{"browser":"Chrome","version":"20","release_date":"2012-06-26"}
+{"browser":"Chrome","version":"21","release_date":"2012-07-31"}
+{"browser":"Chrome","version":"22","release_date":"2012-09-25"}
+{"browser":"Chrome","version":"23","release_date":"2012-11-06"}
+{"browser":"Chrome","version":"24","release_date":"2013-01-10"}
+{"browser":"Chrome","version":"25","release_date":"2013-02-21"}
+{"browser":"Chrome","version":"26","release_date":"2013-03-26"}
+{"browser":"Chrome","version":"27","release_date":"2013-05-21"}
+{"browser":"Chrome","version":"28","release_date":"2013-07-09"}
+{"browser":"Chrome","version":"29","release_date":"2013-08-20"}
+{"browser":"Chrome","version":"30","release_date":"2013-10-01"}
+{"browser":"Chrome","version":"31","release_date":"2013-11-12"}
+{"browser":"Chrome","version":"32","release_date":"2014-01-14"}
+{"browser":"Chrome","version":"33","release_date":"2014-02-20"}
+{"browser":"Chrome","version":"34","release_date":"2014-04-08"}
+{"browser":"Chrome","version":"35","release_date":"2014-05-20"}
+{"browser":"Chrome","version":"36","release_date":"2014-07-16"}
+{"browser":"Chrome","version":"37","release_date":"2014-08-26"}
+{"browser":"Chrome","version":"38","release_date":"2014-10-07"}
+{"browser":"Chrome","version":"39","release_date":"2014-11-18"}
+{"browser":"Chrome","version":"40","release_date":"2015-01-21"}
+{"browser":"Chrome","version":"41","release_date":"2015-03-03"}
+{"browser":"Chrome","version":"42","release_date":"2015-04-14"}
+{"browser":"Chrome","version":"43","release_date":"2015-05-19"}
+{"browser":"Chrome","version":"44","release_date":"2015-07-21"}
+{"browser":"Chrome","version":"45","release_date":"2015-09-01"}
+{"browser":"Chrome","version":"46","release_date":"2015-10-13"}
+{"browser":"Chrome","version":"47","release_date":"2015-12-01"}
+{"browser":"Chrome","version":"48","release_date":"2016-01-20"}
+{"browser":"Chrome","version":"49","release_date":"2016-03-02"}
+{"browser":"Chrome","version":"50","release_date":"2016-04-13"}
+{"browser":"Chrome","version":"51","release_date":"2016-05-25"}
+{"browser":"Chrome","version":"52","release_date":"2016-07-20"}
+{"browser":"Chrome","version":"53","release_date":"2016-08-31"}
+{"browser":"Chrome","version":"54","release_date":"2016-10-12"}
+{"browser":"Chrome","version":"55","release_date":"2016-12-01"}
+{"browser":"Chrome","version":"56","release_date":"2017-01-25"}
+{"browser":"Chrome","version":"57","release_date":"2017-03-09"}
+{"browser":"Chrome","version":"58","release_date":"2017-04-19"}
+{"browser":"Chrome","version":"59","release_date":"2017-06-05"}
+{"browser":"Chrome","version":"60","release_date":"2017-07-25"}
+{"browser":"Chrome","version":"61","release_date":"2017-09-05"}
+{"browser":"Chrome","version":"62","release_date":"2017-10-17"}
+{"browser":"Chrome","version":"63","release_date":"2017-12-06"}
+{"browser":"Chrome","version":"64","release_date":"2018-01-23"}
+{"browser":"Chrome","version":"65","release_date":"2018-03-06"}
+{"browser":"Chrome","version":"66","release_date":"2018-04-17"}
+{"browser":"Chrome","version":"67","release_date":"2018-05-29"}
+{"browser":"Chrome","version":"68","release_date":"2018-07-24"}
+{"browser":"Chrome","version":"69","release_date":"2018-09-04"}
+{"browser":"Chrome","version":"70","release_date":"2018-10-16"}
+{"browser":"Chrome","version":"71","release_date":"2018-12-04"}
+{"browser":"Chrome","version":"72","release_date":"2019-01-29"}
+{"browser":"Chrome","version":"73","release_date":"2019-03-12"}
+{"browser":"Chrome","version":"74","release_date":"2019-04-23"}
+{"browser":"Chrome","version":"75","release_date":"2019-06-04"}
+{"browser":"Chrome","version":"76","release_date":"2019-07-30"}
+{"browser":"Chrome","version":"77","release_date":"2019-09-10"}
+{"browser":"Chrome","version":"78","release_date":"2019-10-22"}
+{"browser":"Chrome","version":"79","release_date":"2019-12-10"}
+{"browser":"Chrome","version":"80","release_date":"2020-02-04"}
+{"browser":"Chrome","version":"81","release_date":"2020-04-07"}
+{"browser":"Chrome","version":"83","release_date":"2020-05-19"}
+{"browser":"Chrome","version":"84","release_date":"2020-07-27"}
+{"browser":"Chrome","version":"85","release_date":"2020-08-25"}
+{"browser":"Chrome","version":"86","release_date":"2020-10-20"}
+{"browser":"Chrome","version":"87","release_date":"2020-11-17"}
+{"browser":"Chrome","version":"88","release_date":"2021-01-19"}
+{"browser":"Chrome","version":"89","release_date":"2021-03-02"}
+{"browser":"Chrome","version":"90","release_date":"2021-04-13"}
+{"browser":"Chrome","version":"91","release_date":"2021-05-25"}
+{"browser":"Chrome","version":"92","release_date":"2021-07-20"}
+{"browser":"Chrome","version":"93","release_date":"2021-08-31"}
+{"browser":"Chrome","version":"94","release_date":"2021-09-21"}
+{"browser":"Chrome","version":"95","release_date":"2021-10-19"}
+{"browser":"Chrome","version":"96","release_date":"2021-11-15"}
+{"browser":"Chrome","version":"97","release_date":"2022-01-04"}
+{"browser":"Chrome","version":"98","release_date":"2022-02-01"}
+{"browser":"Chrome","version":"99","release_date":"2022-03-01"}
+{"browser":"Chrome","version":"100","release_date":"2022-03-29"}
+{"browser":"Chrome","version":"101","release_date":"2022-04-26"}
+{"browser":"Chrome","version":"102","release_date":"2022-05-24"}
+{"browser":"Chrome","version":"103","release_date":"2022-06-21"}
+{"browser":"Chrome","version":"104","release_date":"2022-08-02"}
+{"browser":"Chrome","version":"105","release_date":"2022-09-02"}
+{"browser":"Chrome","version":"106","release_date":"2022-09-27"}
+{"browser":"Chrome","version":"107","release_date":"2022-10-25"}
+{"browser":"Chrome","version":"108","release_date":"2022-11-29"}
+{"browser":"Chrome","version":"109","release_date":"2023-01-10"}
+{"browser":"Chrome","version":"110","release_date":"2023-02-07"}
+{"browser":"Chrome","version":"111","release_date":"2023-03-07"}
+{"browser":"Chrome","version":"112","release_date":"2023-04-04"}
+{"browser":"Chrome","version":"113","release_date":"2023-05-02"}
+{"browser":"Chrome","version":"114","release_date":"2023-05-30"}
+{"browser":"Chrome","version":"115","release_date":"2023-07-18"}
+{"browser":"Chrome","version":"116","release_date":"2023-08-15"}
+{"browser":"Chrome","version":"117","release_date":"2023-09-12"}
+{"browser":"Chrome","version":"118","release_date":"2023-10-10"}
+{"browser":"Chrome","version":"119","release_date":"2023-10-31"}
+{"browser":"Chrome","version":"120","release_date":"2023-12-05"}
+{"browser":"Chrome","version":"121","release_date":"2024-01-23"}
+{"browser":"Chrome","version":"122","release_date":"2024-02-20"}
+{"browser":"Chrome","version":"123","release_date":"2024-03-19"}
+{"browser":"Chrome","version":"124","release_date":"2024-04-16"}
+{"browser":"Chrome","version":"125","release_date":"2024-05-14"}
+{"browser":"Chrome","version":"126","release_date":"2024-06-11"}
+{"browser":"Chrome","version":"127","release_date":"2024-07-23"}
+{"browser":"Chrome","version":"128","release_date":"2024-08-20"}
+{"browser":"Chrome","version":"129","release_date":"2024-09-17"}
+{"browser":"Chrome","version":"130","release_date":"2024-10-15"}
+{"browser":"Chrome","version":"131","release_date":"2024-11-12"}
+{"browser":"Chrome","version":"132","release_date":"2025-01-14"}
+{"browser":"Chrome","version":"133","release_date":"2025-02-04"}
+{"browser":"Chrome Android","version":"18","release_date":"2012-06-27"}
+{"browser":"Chrome Android","version":"25","release_date":"2013-02-27"}
+{"browser":"Chrome Android","version":"26","release_date":"2013-04-03"}
+{"browser":"Chrome Android","version":"27","release_date":"2013-05-22"}
+{"browser":"Chrome Android","version":"28","release_date":"2013-07-10"}
+{"browser":"Chrome Android","version":"29","release_date":"2013-08-21"}
+{"browser":"Chrome Android","version":"30","release_date":"2013-10-02"}
+{"browser":"Chrome Android","version":"31","release_date":"2013-11-14"}
+{"browser":"Chrome Android","version":"32","release_date":"2014-01-15"}
+{"browser":"Chrome Android","version":"33","release_date":"2014-02-26"}
+{"browser":"Chrome Android","version":"34","release_date":"2014-04-02"}
+{"browser":"Chrome Android","version":"35","release_date":"2014-05-20"}
+{"browser":"Chrome Android","version":"36","release_date":"2014-07-16"}
+{"browser":"Chrome Android","version":"37","release_date":"2014-09-03"}
+{"browser":"Chrome Android","version":"38","release_date":"2014-10-08"}
+{"browser":"Chrome Android","version":"39","release_date":"2014-11-12"}
+{"browser":"Chrome Android","version":"40","release_date":"2015-01-21"}
+{"browser":"Chrome Android","version":"41","release_date":"2015-03-11"}
+{"browser":"Chrome Android","version":"42","release_date":"2015-04-15"}
+{"browser":"Chrome Android","version":"43","release_date":"2015-05-27"}
+{"browser":"Chrome Android","version":"44","release_date":"2015-07-29"}
+{"browser":"Chrome Android","version":"45","release_date":"2015-09-01"}
+{"browser":"Chrome Android","version":"46","release_date":"2015-10-14"}
+{"browser":"Chrome Android","version":"47","release_date":"2015-12-02"}
+{"browser":"Chrome Android","version":"48","release_date":"2016-01-26"}
+{"browser":"Chrome Android","version":"49","release_date":"2016-03-09"}
+{"browser":"Chrome Android","version":"50","release_date":"2016-04-13"}
+{"browser":"Chrome Android","version":"51","release_date":"2016-06-08"}
+{"browser":"Chrome Android","version":"52","release_date":"2016-07-27"}
+{"browser":"Chrome Android","version":"53","release_date":"2016-09-07"}
+{"browser":"Chrome Android","version":"54","release_date":"2016-10-19"}
+{"browser":"Chrome Android","version":"55","release_date":"2016-12-06"}
+{"browser":"Chrome Android","version":"56","release_date":"2017-02-01"}
+{"browser":"Chrome Android","version":"57","release_date":"2017-03-16"}
+{"browser":"Chrome Android","version":"58","release_date":"2017-04-25"}
+{"browser":"Chrome Android","version":"59","release_date":"2017-06-06"}
+{"browser":"Chrome Android","version":"60","release_date":"2017-08-01"}
+{"browser":"Chrome Android","version":"61","release_date":"2017-09-05"}
+{"browser":"Chrome Android","version":"62","release_date":"2017-10-24"}
+{"browser":"Chrome Android","version":"63","release_date":"2017-12-05"}
+{"browser":"Chrome Android","version":"64","release_date":"2018-01-23"}
+{"browser":"Chrome Android","version":"65","release_date":"2018-03-06"}
+{"browser":"Chrome Android","version":"66","release_date":"2018-04-17"}
+{"browser":"Chrome Android","version":"67","release_date":"2018-05-31"}
+{"browser":"Chrome Android","version":"68","release_date":"2018-07-24"}
+{"browser":"Chrome Android","version":"69","release_date":"2018-09-04"}
+{"browser":"Chrome Android","version":"70","release_date":"2018-10-17"}
+{"browser":"Chrome Android","version":"71","release_date":"2018-12-04"}
+{"browser":"Chrome Android","version":"72","release_date":"2019-01-29"}
+{"browser":"Chrome Android","version":"73","release_date":"2019-03-12"}
+{"browser":"Chrome Android","version":"74","release_date":"2019-04-24"}
+{"browser":"Chrome Android","version":"75","release_date":"2019-06-04"}
+{"browser":"Chrome Android","version":"76","release_date":"2019-07-30"}
+{"browser":"Chrome Android","version":"77","release_date":"2019-09-10"}
+{"browser":"Chrome Android","version":"78","release_date":"2019-10-22"}
+{"browser":"Chrome Android","version":"79","release_date":"2019-12-17"}
+{"browser":"Chrome Android","version":"80","release_date":"2020-02-04"}
+{"browser":"Chrome Android","version":"81","release_date":"2020-04-07"}
+{"browser":"Chrome Android","version":"83","release_date":"2020-05-19"}
+{"browser":"Chrome Android","version":"84","release_date":"2020-07-27"}
+{"browser":"Chrome Android","version":"85","release_date":"2020-08-25"}
+{"browser":"Chrome Android","version":"86","release_date":"2020-10-20"}
+{"browser":"Chrome Android","version":"87","release_date":"2020-11-17"}
+{"browser":"Chrome Android","version":"88","release_date":"2021-01-19"}
+{"browser":"Chrome Android","version":"89","release_date":"2021-03-02"}
+{"browser":"Chrome Android","version":"90","release_date":"2021-04-13"}
+{"browser":"Chrome Android","version":"91","release_date":"2021-05-25"}
+{"browser":"Chrome Android","version":"92","release_date":"2021-07-20"}
+{"browser":"Chrome Android","version":"93","release_date":"2021-08-31"}
+{"browser":"Chrome Android","version":"94","release_date":"2021-09-21"}
+{"browser":"Chrome Android","version":"95","release_date":"2021-10-19"}
+{"browser":"Chrome Android","version":"96","release_date":"2021-11-15"}
+{"browser":"Chrome Android","version":"97","release_date":"2022-01-04"}
+{"browser":"Chrome Android","version":"98","release_date":"2022-02-01"}
+{"browser":"Chrome Android","version":"99","release_date":"2022-03-01"}
+{"browser":"Chrome Android","version":"100","release_date":"2022-03-29"}
+{"browser":"Chrome Android","version":"101","release_date":"2022-04-26"}
+{"browser":"Chrome Android","version":"102","release_date":"2022-05-24"}
+{"browser":"Chrome Android","version":"103","release_date":"2022-06-21"}
+{"browser":"Chrome Android","version":"104","release_date":"2022-08-02"}
+{"browser":"Chrome Android","version":"105","release_date":"2022-09-02"}
+{"browser":"Chrome Android","version":"106","release_date":"2022-09-27"}
+{"browser":"Chrome Android","version":"107","release_date":"2022-10-25"}
+{"browser":"Chrome Android","version":"108","release_date":"2022-11-29"}
+{"browser":"Chrome Android","version":"109","release_date":"2023-01-10"}
+{"browser":"Chrome Android","version":"110","release_date":"2023-02-07"}
+{"browser":"Chrome Android","version":"111","release_date":"2023-03-07"}
+{"browser":"Chrome Android","version":"112","release_date":"2023-04-04"}
+{"browser":"Chrome Android","version":"113","release_date":"2023-05-02"}
+{"browser":"Chrome Android","version":"114","release_date":"2023-05-30"}
+{"browser":"Chrome Android","version":"115","release_date":"2023-07-21"}
+{"browser":"Chrome Android","version":"116","release_date":"2023-08-15"}
+{"browser":"Chrome Android","version":"117","release_date":"2023-09-12"}
+{"browser":"Chrome Android","version":"118","release_date":"2023-10-10"}
+{"browser":"Chrome Android","version":"119","release_date":"2023-10-31"}
+{"browser":"Chrome Android","version":"120","release_date":"2023-12-05"}
+{"browser":"Chrome Android","version":"121","release_date":"2024-01-23"}
+{"browser":"Chrome Android","version":"122","release_date":"2024-02-20"}
+{"browser":"Chrome Android","version":"123","release_date":"2024-03-19"}
+{"browser":"Chrome Android","version":"124","release_date":"2024-04-16"}
+{"browser":"Chrome Android","version":"125","release_date":"2024-05-14"}
+{"browser":"Chrome Android","version":"126","release_date":"2024-06-11"}
+{"browser":"Chrome Android","version":"127","release_date":"2024-07-23"}
+{"browser":"Chrome Android","version":"128","release_date":"2024-08-20"}
+{"browser":"Chrome Android","version":"129","release_date":"2024-09-17"}
+{"browser":"Chrome Android","version":"130","release_date":"2024-10-15"}
+{"browser":"Chrome Android","version":"131","release_date":"2024-11-12"}
+{"browser":"Chrome Android","version":"132","release_date":"2025-01-14"}
+{"browser":"Chrome Android","version":"133","release_date":"2025-02-04"}
+{"browser":"Edge","version":"12","release_date":"2015-07-29"}
+{"browser":"Edge","version":"13","release_date":"2015-11-12"}
+{"browser":"Edge","version":"14","release_date":"2016-08-02"}
+{"browser":"Edge","version":"15","release_date":"2017-04-05"}
+{"browser":"Edge","version":"16","release_date":"2017-10-17"}
+{"browser":"Edge","version":"17","release_date":"2018-04-30"}
+{"browser":"Edge","version":"18","release_date":"2018-10-02"}
+{"browser":"Edge","version":"79","release_date":"2020-01-15"}
+{"browser":"Edge","version":"80","release_date":"2020-02-07"}
+{"browser":"Edge","version":"81","release_date":"2020-04-13"}
+{"browser":"Edge","version":"83","release_date":"2020-05-21"}
+{"browser":"Edge","version":"84","release_date":"2020-07-16"}
+{"browser":"Edge","version":"85","release_date":"2020-08-27"}
+{"browser":"Edge","version":"86","release_date":"2020-10-09"}
+{"browser":"Edge","version":"87","release_date":"2020-11-19"}
+{"browser":"Edge","version":"88","release_date":"2021-01-21"}
+{"browser":"Edge","version":"89","release_date":"2021-03-04"}
+{"browser":"Edge","version":"90","release_date":"2021-04-15"}
+{"browser":"Edge","version":"91","release_date":"2021-05-27"}
+{"browser":"Edge","version":"92","release_date":"2021-07-22"}
+{"browser":"Edge","version":"93","release_date":"2021-09-02"}
+{"browser":"Edge","version":"94","release_date":"2021-09-24"}
+{"browser":"Edge","version":"95","release_date":"2021-10-21"}
+{"browser":"Edge","version":"96","release_date":"2021-11-19"}
+{"browser":"Edge","version":"97","release_date":"2022-01-06"}
+{"browser":"Edge","version":"98","release_date":"2022-02-03"}
+{"browser":"Edge","version":"99","release_date":"2022-03-03"}
+{"browser":"Edge","version":"100","release_date":"2022-04-01"}
+{"browser":"Edge","version":"101","release_date":"2022-04-28"}
+{"browser":"Edge","version":"102","release_date":"2022-05-31"}
+{"browser":"Edge","version":"103","release_date":"2022-06-23"}
+{"browser":"Edge","version":"104","release_date":"2022-08-05"}
+{"browser":"Edge","version":"105","release_date":"2022-09-01"}
+{"browser":"Edge","version":"106","release_date":"2022-10-03"}
+{"browser":"Edge","version":"107","release_date":"2022-10-27"}
+{"browser":"Edge","version":"108","release_date":"2022-12-05"}
+{"browser":"Edge","version":"109","release_date":"2023-01-12"}
+{"browser":"Edge","version":"110","release_date":"2023-02-09"}
+{"browser":"Edge","version":"111","release_date":"2023-03-13"}
+{"browser":"Edge","version":"112","release_date":"2023-04-06"}
+{"browser":"Edge","version":"113","release_date":"2023-05-05"}
+{"browser":"Edge","version":"114","release_date":"2023-06-02"}
+{"browser":"Edge","version":"115","release_date":"2023-07-21"}
+{"browser":"Edge","version":"116","release_date":"2023-08-21"}
+{"browser":"Edge","version":"117","release_date":"2023-09-15"}
+{"browser":"Edge","version":"118","release_date":"2023-10-13"}
+{"browser":"Edge","version":"119","release_date":"2023-11-02"}
+{"browser":"Edge","version":"120","release_date":"2023-12-07"}
+{"browser":"Edge","version":"121","release_date":"2024-01-25"}
+{"browser":"Edge","version":"122","release_date":"2024-02-23"}
+{"browser":"Edge","version":"123","release_date":"2024-03-22"}
+{"browser":"Edge","version":"124","release_date":"2024-04-18"}
+{"browser":"Edge","version":"125","release_date":"2024-05-17"}
+{"browser":"Edge","version":"126","release_date":"2024-06-13"}
+{"browser":"Edge","version":"127","release_date":"2024-07-25"}
+{"browser":"Edge","version":"128","release_date":"2024-08-22"}
+{"browser":"Edge","version":"129","release_date":"2024-09-19"}
+{"browser":"Edge","version":"130","release_date":"2024-10-17"}
+{"browser":"Edge","version":"131","release_date":"2024-11-14"}
+{"browser":"Edge","version":"132","release_date":"2025-01-17"}
+{"browser":"Edge","version":"133","release_date":"2025-02-06"}
+{"browser":"Firefox","version":"1","release_date":"2004-11-09"}
+{"browser":"Firefox","version":"1.5","release_date":"2005-11-29"}
+{"browser":"Firefox","version":"2","release_date":"2006-10-24"}
+{"browser":"Firefox","version":"3","release_date":"2008-06-17"}
+{"browser":"Firefox","version":"3.5","release_date":"2009-06-30"}
+{"browser":"Firefox","version":"3.6","release_date":"2010-01-21"}
+{"browser":"Firefox","version":"4","release_date":"2011-03-22"}
+{"browser":"Firefox","version":"5","release_date":"2011-06-21"}
+{"browser":"Firefox","version":"6","release_date":"2011-08-16"}
+{"browser":"Firefox","version":"7","release_date":"2011-09-27"}
+{"browser":"Firefox","version":"8","release_date":"2011-11-08"}
+{"browser":"Firefox","version":"9","release_date":"2011-12-20"}
+{"browser":"Firefox","version":"10","release_date":"2012-01-31"}
+{"browser":"Firefox","version":"11","release_date":"2012-03-13"}
+{"browser":"Firefox","version":"12","release_date":"2012-04-24"}
+{"browser":"Firefox","version":"13","release_date":"2012-06-05"}
+{"browser":"Firefox","version":"14","release_date":"2012-07-17"}
+{"browser":"Firefox","version":"15","release_date":"2012-08-28"}
+{"browser":"Firefox","version":"16","release_date":"2012-10-09"}
+{"browser":"Firefox","version":"17","release_date":"2012-11-20"}
+{"browser":"Firefox","version":"18","release_date":"2013-01-08"}
+{"browser":"Firefox","version":"19","release_date":"2013-02-19"}
+{"browser":"Firefox","version":"20","release_date":"2013-04-02"}
+{"browser":"Firefox","version":"21","release_date":"2013-05-14"}
+{"browser":"Firefox","version":"22","release_date":"2013-06-25"}
+{"browser":"Firefox","version":"23","release_date":"2013-08-06"}
+{"browser":"Firefox","version":"24","release_date":"2013-09-17"}
+{"browser":"Firefox","version":"25","release_date":"2013-10-29"}
+{"browser":"Firefox","version":"26","release_date":"2013-12-10"}
+{"browser":"Firefox","version":"27","release_date":"2014-02-04"}
+{"browser":"Firefox","version":"28","release_date":"2014-03-18"}
+{"browser":"Firefox","version":"29","release_date":"2014-04-29"}
+{"browser":"Firefox","version":"30","release_date":"2014-06-10"}
+{"browser":"Firefox","version":"31","release_date":"2014-07-22"}
+{"browser":"Firefox","version":"32","release_date":"2014-09-02"}
+{"browser":"Firefox","version":"33","release_date":"2014-10-14"}
+{"browser":"Firefox","version":"34","release_date":"2014-12-01"}
+{"browser":"Firefox","version":"35","release_date":"2015-01-13"}
+{"browser":"Firefox","version":"36","release_date":"2015-02-24"}
+{"browser":"Firefox","version":"37","release_date":"2015-03-31"}
+{"browser":"Firefox","version":"38","release_date":"2015-05-12"}
+{"browser":"Firefox","version":"39","release_date":"2015-07-02"}
+{"browser":"Firefox","version":"40","release_date":"2015-08-11"}
+{"browser":"Firefox","version":"41","release_date":"2015-09-22"}
+{"browser":"Firefox","version":"42","release_date":"2015-11-03"}
+{"browser":"Firefox","version":"43","release_date":"2015-12-15"}
+{"browser":"Firefox","version":"44","release_date":"2016-01-26"}
+{"browser":"Firefox","version":"45","release_date":"2016-03-08"}
+{"browser":"Firefox","version":"46","release_date":"2016-04-26"}
+{"browser":"Firefox","version":"47","release_date":"2016-06-07"}
+{"browser":"Firefox","version":"48","release_date":"2016-08-02"}
+{"browser":"Firefox","version":"49","release_date":"2016-09-20"}
+{"browser":"Firefox","version":"50","release_date":"2016-11-15"}
+{"browser":"Firefox","version":"51","release_date":"2017-01-24"}
+{"browser":"Firefox","version":"52","release_date":"2017-03-07"}
+{"browser":"Firefox","version":"53","release_date":"2017-04-19"}
+{"browser":"Firefox","version":"54","release_date":"2017-06-13"}
+{"browser":"Firefox","version":"55","release_date":"2017-08-08"}
+{"browser":"Firefox","version":"56","release_date":"2017-09-28"}
+{"browser":"Firefox","version":"57","release_date":"2017-11-14"}
+{"browser":"Firefox","version":"58","release_date":"2018-01-23"}
+{"browser":"Firefox","version":"59","release_date":"2018-03-13"}
+{"browser":"Firefox","version":"60","release_date":"2018-05-09"}
+{"browser":"Firefox","version":"61","release_date":"2018-06-26"}
+{"browser":"Firefox","version":"62","release_date":"2018-09-05"}
+{"browser":"Firefox","version":"63","release_date":"2018-10-23"}
+{"browser":"Firefox","version":"64","release_date":"2018-12-11"}
+{"browser":"Firefox","version":"65","release_date":"2019-01-29"}
+{"browser":"Firefox","version":"66","release_date":"2019-03-19"}
+{"browser":"Firefox","version":"67","release_date":"2019-05-21"}
+{"browser":"Firefox","version":"68","release_date":"2019-07-09"}
+{"browser":"Firefox","version":"69","release_date":"2019-09-03"}
+{"browser":"Firefox","version":"70","release_date":"2019-10-22"}
+{"browser":"Firefox","version":"71","release_date":"2019-12-10"}
+{"browser":"Firefox","version":"72","release_date":"2020-01-07"}
+{"browser":"Firefox","version":"73","release_date":"2020-02-11"}
+{"browser":"Firefox","version":"74","release_date":"2020-03-10"}
+{"browser":"Firefox","version":"75","release_date":"2020-04-07"}
+{"browser":"Firefox","version":"76","release_date":"2020-05-05"}
+{"browser":"Firefox","version":"77","release_date":"2020-06-02"}
+{"browser":"Firefox","version":"78","release_date":"2020-06-30"}
+{"browser":"Firefox","version":"79","release_date":"2020-07-28"}
+{"browser":"Firefox","version":"80","release_date":"2020-08-25"}
+{"browser":"Firefox","version":"81","release_date":"2020-09-22"}
+{"browser":"Firefox","version":"82","release_date":"2020-10-20"}
+{"browser":"Firefox","version":"83","release_date":"2020-11-17"}
+{"browser":"Firefox","version":"84","release_date":"2020-12-15"}
+{"browser":"Firefox","version":"85","release_date":"2021-01-26"}
+{"browser":"Firefox","version":"86","release_date":"2021-02-23"}
+{"browser":"Firefox","version":"87","release_date":"2021-03-23"}
+{"browser":"Firefox","version":"88","release_date":"2021-04-19"}
+{"browser":"Firefox","version":"89","release_date":"2021-06-01"}
+{"browser":"Firefox","version":"90","release_date":"2021-07-13"}
+{"browser":"Firefox","version":"91","release_date":"2021-08-10"}
+{"browser":"Firefox","version":"92","release_date":"2021-09-07"}
+{"browser":"Firefox","version":"93","release_date":"2021-10-05"}
+{"browser":"Firefox","version":"94","release_date":"2021-11-02"}
+{"browser":"Firefox","version":"95","release_date":"2021-12-07"}
+{"browser":"Firefox","version":"96","release_date":"2022-01-11"}
+{"browser":"Firefox","version":"97","release_date":"2022-02-08"}
+{"browser":"Firefox","version":"98","release_date":"2022-03-08"}
+{"browser":"Firefox","version":"99","release_date":"2022-04-05"}
+{"browser":"Firefox","version":"100","release_date":"2022-05-03"}
+{"browser":"Firefox","version":"101","release_date":"2022-05-31"}
+{"browser":"Firefox","version":"102","release_date":"2022-06-28"}
+{"browser":"Firefox","version":"103","release_date":"2022-07-26"}
+{"browser":"Firefox","version":"104","release_date":"2022-08-23"}
+{"browser":"Firefox","version":"105","release_date":"2022-09-20"}
+{"browser":"Firefox","version":"106","release_date":"2022-10-18"}
+{"browser":"Firefox","version":"107","release_date":"2022-11-15"}
+{"browser":"Firefox","version":"108","release_date":"2022-12-13"}
+{"browser":"Firefox","version":"109","release_date":"2023-01-17"}
+{"browser":"Firefox","version":"110","release_date":"2023-02-14"}
+{"browser":"Firefox","version":"111","release_date":"2023-03-14"}
+{"browser":"Firefox","version":"112","release_date":"2023-04-11"}
+{"browser":"Firefox","version":"113","release_date":"2023-05-09"}
+{"browser":"Firefox","version":"114","release_date":"2023-06-06"}
+{"browser":"Firefox","version":"115","release_date":"2023-07-04"}
+{"browser":"Firefox","version":"116","release_date":"2023-08-01"}
+{"browser":"Firefox","version":"117","release_date":"2023-08-29"}
+{"browser":"Firefox","version":"118","release_date":"2023-09-26"}
+{"browser":"Firefox","version":"119","release_date":"2023-10-24"}
+{"browser":"Firefox","version":"120","release_date":"2023-11-21"}
+{"browser":"Firefox","version":"121","release_date":"2023-12-19"}
+{"browser":"Firefox","version":"122","release_date":"2024-01-23"}
+{"browser":"Firefox","version":"123","release_date":"2024-02-20"}
+{"browser":"Firefox","version":"124","release_date":"2024-03-19"}
+{"browser":"Firefox","version":"125","release_date":"2024-04-16"}
+{"browser":"Firefox","version":"126","release_date":"2024-05-14"}
+{"browser":"Firefox","version":"127","release_date":"2024-06-11"}
+{"browser":"Firefox","version":"128","release_date":"2024-07-09"}
+{"browser":"Firefox","version":"129","release_date":"2024-08-06"}
+{"browser":"Firefox","version":"130","release_date":"2024-09-03"}
+{"browser":"Firefox","version":"131","release_date":"2024-10-01"}
+{"browser":"Firefox","version":"132","release_date":"2024-10-29"}
+{"browser":"Firefox","version":"133","release_date":"2024-11-26"}
+{"browser":"Firefox","version":"134","release_date":"2025-01-07"}
+{"browser":"Firefox","version":"135","release_date":"2025-02-04"}
+{"browser":"Firefox for Android","version":"4","release_date":"2011-03-29"}
+{"browser":"Firefox for Android","version":"5","release_date":"2011-06-21"}
+{"browser":"Firefox for Android","version":"6","release_date":"2011-08-16"}
+{"browser":"Firefox for Android","version":"7","release_date":"2011-09-27"}
+{"browser":"Firefox for Android","version":"8","release_date":"2011-11-08"}
+{"browser":"Firefox for Android","version":"9","release_date":"2011-12-21"}
+{"browser":"Firefox for Android","version":"10","release_date":"2012-01-31"}
+{"browser":"Firefox for Android","version":"14","release_date":"2012-06-26"}
+{"browser":"Firefox for Android","version":"15","release_date":"2012-08-28"}
+{"browser":"Firefox for Android","version":"16","release_date":"2012-10-09"}
+{"browser":"Firefox for Android","version":"17","release_date":"2012-11-20"}
+{"browser":"Firefox for Android","version":"18","release_date":"2013-01-08"}
+{"browser":"Firefox for Android","version":"19","release_date":"2013-02-19"}
+{"browser":"Firefox for Android","version":"20","release_date":"2013-04-02"}
+{"browser":"Firefox for Android","version":"21","release_date":"2013-05-14"}
+{"browser":"Firefox for Android","version":"22","release_date":"2013-06-25"}
+{"browser":"Firefox for Android","version":"23","release_date":"2013-08-06"}
+{"browser":"Firefox for Android","version":"24","release_date":"2013-09-17"}
+{"browser":"Firefox for Android","version":"25","release_date":"2013-10-29"}
+{"browser":"Firefox for Android","version":"26","release_date":"2013-12-10"}
+{"browser":"Firefox for Android","version":"27","release_date":"2014-02-04"}
+{"browser":"Firefox for Android","version":"28","release_date":"2014-03-18"}
+{"browser":"Firefox for Android","version":"29","release_date":"2014-04-29"}
+{"browser":"Firefox for Android","version":"30","release_date":"2014-06-10"}
+{"browser":"Firefox for Android","version":"31","release_date":"2014-07-22"}
+{"browser":"Firefox for Android","version":"32","release_date":"2014-09-02"}
+{"browser":"Firefox for Android","version":"33","release_date":"2014-10-14"}
+{"browser":"Firefox for Android","version":"34","release_date":"2014-12-01"}
+{"browser":"Firefox for Android","version":"35","release_date":"2015-01-13"}
+{"browser":"Firefox for Android","version":"36","release_date":"2015-02-27"}
+{"browser":"Firefox for Android","version":"37","release_date":"2015-03-31"}
+{"browser":"Firefox for Android","version":"38","release_date":"2015-05-12"}
+{"browser":"Firefox for Android","version":"39","release_date":"2015-07-02"}
+{"browser":"Firefox for Android","version":"40","release_date":"2015-08-11"}
+{"browser":"Firefox for Android","version":"41","release_date":"2015-09-22"}
+{"browser":"Firefox for Android","version":"42","release_date":"2015-11-03"}
+{"browser":"Firefox for Android","version":"43","release_date":"2015-12-15"}
+{"browser":"Firefox for Android","version":"44","release_date":"2016-01-26"}
+{"browser":"Firefox for Android","version":"45","release_date":"2016-03-08"}
+{"browser":"Firefox for Android","version":"46","release_date":"2016-04-26"}
+{"browser":"Firefox for Android","version":"47","release_date":"2016-06-07"}
+{"browser":"Firefox for Android","version":"48","release_date":"2016-08-02"}
+{"browser":"Firefox for Android","version":"49","release_date":"2016-09-20"}
+{"browser":"Firefox for Android","version":"50","release_date":"2016-11-15"}
+{"browser":"Firefox for Android","version":"51","release_date":"2017-01-24"}
+{"browser":"Firefox for Android","version":"52","release_date":"2017-03-07"}
+{"browser":"Firefox for Android","version":"53","release_date":"2017-04-19"}
+{"browser":"Firefox for Android","version":"54","release_date":"2017-06-13"}
+{"browser":"Firefox for Android","version":"55","release_date":"2017-08-08"}
+{"browser":"Firefox for Android","version":"56","release_date":"2017-09-28"}
+{"browser":"Firefox for Android","version":"57","release_date":"2017-11-28"}
+{"browser":"Firefox for Android","version":"58","release_date":"2018-01-22"}
+{"browser":"Firefox for Android","version":"59","release_date":"2018-03-13"}
+{"browser":"Firefox for Android","version":"60","release_date":"2018-05-09"}
+{"browser":"Firefox for Android","version":"61","release_date":"2018-06-26"}
+{"browser":"Firefox for Android","version":"62","release_date":"2018-09-05"}
+{"browser":"Firefox for Android","version":"63","release_date":"2018-10-23"}
+{"browser":"Firefox for Android","version":"64","release_date":"2018-12-11"}
+{"browser":"Firefox for Android","version":"65","release_date":"2019-01-29"}
+{"browser":"Firefox for Android","version":"66","release_date":"2019-03-19"}
+{"browser":"Firefox for Android","version":"67","release_date":"2019-05-21"}
+{"browser":"Firefox for Android","version":"68","release_date":"2019-07-09"}
+{"browser":"Firefox for Android","version":"79","release_date":"2020-07-28"}
+{"browser":"Firefox for Android","version":"80","release_date":"2020-08-31"}
+{"browser":"Firefox for Android","version":"81","release_date":"2020-09-22"}
+{"browser":"Firefox for Android","version":"82","release_date":"2020-10-20"}
+{"browser":"Firefox for Android","version":"83","release_date":"2020-11-17"}
+{"browser":"Firefox for Android","version":"84","release_date":"2020-12-15"}
+{"browser":"Firefox for Android","version":"85","release_date":"2021-01-26"}
+{"browser":"Firefox for Android","version":"86","release_date":"2021-02-23"}
+{"browser":"Firefox for Android","version":"87","release_date":"2021-03-23"}
+{"browser":"Firefox for Android","version":"88","release_date":"2021-04-19"}
+{"browser":"Firefox for Android","version":"89","release_date":"2021-06-01"}
+{"browser":"Firefox for Android","version":"90","release_date":"2021-07-13"}
+{"browser":"Firefox for Android","version":"91","release_date":"2021-08-10"}
+{"browser":"Firefox for Android","version":"92","release_date":"2021-09-07"}
+{"browser":"Firefox for Android","version":"93","release_date":"2021-10-05"}
+{"browser":"Firefox for Android","version":"94","release_date":"2021-11-02"}
+{"browser":"Firefox for Android","version":"95","release_date":"2021-12-07"}
+{"browser":"Firefox for Android","version":"96","release_date":"2022-01-11"}
+{"browser":"Firefox for Android","version":"97","release_date":"2022-02-08"}
+{"browser":"Firefox for Android","version":"98","release_date":"2022-03-08"}
+{"browser":"Firefox for Android","version":"99","release_date":"2022-04-05"}
+{"browser":"Firefox for Android","version":"100","release_date":"2022-05-03"}
+{"browser":"Firefox for Android","version":"101","release_date":"2022-05-31"}
+{"browser":"Firefox for Android","version":"102","release_date":"2022-06-28"}
+{"browser":"Firefox for Android","version":"103","release_date":"2022-07-26"}
+{"browser":"Firefox for Android","version":"104","release_date":"2022-08-23"}
+{"browser":"Firefox for Android","version":"105","release_date":"2022-09-20"}
+{"browser":"Firefox for Android","version":"106","release_date":"2022-10-18"}
+{"browser":"Firefox for Android","version":"107","release_date":"2022-11-15"}
+{"browser":"Firefox for Android","version":"108","release_date":"2022-12-13"}
+{"browser":"Firefox for Android","version":"109","release_date":"2023-01-17"}
+{"browser":"Firefox for Android","version":"110","release_date":"2023-02-14"}
+{"browser":"Firefox for Android","version":"111","release_date":"2023-03-14"}
+{"browser":"Firefox for Android","version":"112","release_date":"2023-04-11"}
+{"browser":"Firefox for Android","version":"113","release_date":"2023-05-09"}
+{"browser":"Firefox for Android","version":"114","release_date":"2023-06-06"}
+{"browser":"Firefox for Android","version":"115","release_date":"2023-07-04"}
+{"browser":"Firefox for Android","version":"116","release_date":"2023-08-01"}
+{"browser":"Firefox for Android","version":"117","release_date":"2023-08-29"}
+{"browser":"Firefox for Android","version":"118","release_date":"2023-09-26"}
+{"browser":"Firefox for Android","version":"119","release_date":"2023-10-24"}
+{"browser":"Firefox for Android","version":"120","release_date":"2023-11-21"}
+{"browser":"Firefox for Android","version":"121","release_date":"2023-12-19"}
+{"browser":"Firefox for Android","version":"122","release_date":"2024-01-23"}
+{"browser":"Firefox for Android","version":"123","release_date":"2024-02-20"}
+{"browser":"Firefox for Android","version":"124","release_date":"2024-03-19"}
+{"browser":"Firefox for Android","version":"125","release_date":"2024-04-16"}
+{"browser":"Firefox for Android","version":"126","release_date":"2024-05-14"}
+{"browser":"Firefox for Android","version":"127","release_date":"2024-06-11"}
+{"browser":"Firefox for Android","version":"128","release_date":"2024-07-09"}
+{"browser":"Firefox for Android","version":"129","release_date":"2024-08-06"}
+{"browser":"Firefox for Android","version":"130","release_date":"2024-09-03"}
+{"browser":"Firefox for Android","version":"131","release_date":"2024-10-01"}
+{"browser":"Firefox for Android","version":"132","release_date":"2024-10-29"}
+{"browser":"Firefox for Android","version":"133","release_date":"2024-11-26"}
+{"browser":"Firefox for Android","version":"134","release_date":"2025-01-07"}
+{"browser":"Firefox for Android","version":"135","release_date":"2025-02-04"}
+{"browser":"Safari","version":"1","release_date":"2003-06-23"}
+{"browser":"Safari","version":"1.1","release_date":"2003-10-24"}
+{"browser":"Safari","version":"1.2","release_date":"2004-02-02"}
+{"browser":"Safari","version":"1.3","release_date":"2005-04-15"}
+{"browser":"Safari","version":"2","release_date":"2005-04-29"}
+{"browser":"Safari","version":"3","release_date":"2007-10-26"}
+{"browser":"Safari","version":"3.1","release_date":"2008-03-18"}
+{"browser":"Safari","version":"4","release_date":"2009-06-08"}
+{"browser":"Safari","version":"5","release_date":"2010-06-07"}
+{"browser":"Safari","version":"5.1","release_date":"2011-07-20"}
+{"browser":"Safari","version":"6","release_date":"2012-07-25"}
+{"browser":"Safari","version":"7","release_date":"2013-10-22"}
+{"browser":"Safari","version":"8","release_date":"2014-10-16"}
+{"browser":"Safari","version":"9","release_date":"2015-09-30"}
+{"browser":"Safari","version":"9.1","release_date":"2016-03-21"}
+{"browser":"Safari","version":"10","release_date":"2016-09-20"}
+{"browser":"Safari","version":"10.1","release_date":"2017-03-27"}
+{"browser":"Safari","version":"11","release_date":"2017-09-19"}
+{"browser":"Safari","version":"11.1","release_date":"2018-04-12"}
+{"browser":"Safari","version":"12","release_date":"2018-09-17"}
+{"browser":"Safari","version":"12.1","release_date":"2019-03-25"}
+{"browser":"Safari","version":"13","release_date":"2019-09-19"}
+{"browser":"Safari","version":"13.1","release_date":"2020-03-24"}
+{"browser":"Safari","version":"14","release_date":"2020-09-16"}
+{"browser":"Safari","version":"14.1","release_date":"2021-04-26"}
+{"browser":"Safari","version":"15","release_date":"2021-09-20"}
+{"browser":"Safari","version":"15.1","release_date":"2021-10-25"}
+{"browser":"Safari","version":"15.2","release_date":"2021-12-13"}
+{"browser":"Safari","version":"15.3","release_date":"2022-01-26"}
+{"browser":"Safari","version":"15.4","release_date":"2022-03-14"}
+{"browser":"Safari","version":"15.5","release_date":"2022-05-16"}
+{"browser":"Safari","version":"15.6","release_date":"2022-07-20"}
+{"browser":"Safari","version":"16","release_date":"2022-09-12"}
+{"browser":"Safari","version":"16.1","release_date":"2022-10-24"}
+{"browser":"Safari","version":"16.2","release_date":"2022-12-13"}
+{"browser":"Safari","version":"16.3","release_date":"2023-01-23"}
+{"browser":"Safari","version":"16.4","release_date":"2023-03-27"}
+{"browser":"Safari","version":"16.5","release_date":"2023-05-18"}
+{"browser":"Safari","version":"16.6","release_date":"2023-07-24"}
+{"browser":"Safari","version":"17","release_date":"2023-09-18"}
+{"browser":"Safari","version":"17.1","release_date":"2023-10-25"}
+{"browser":"Safari","version":"17.2","release_date":"2023-12-11"}
+{"browser":"Safari","version":"17.3","release_date":"2024-01-22"}
+{"browser":"Safari","version":"17.4","release_date":"2024-03-05"}
+{"browser":"Safari","version":"17.5","release_date":"2024-05-13"}
+{"browser":"Safari","version":"17.6","release_date":"2024-07-29"}
+{"browser":"Safari","version":"18","release_date":"2024-09-16"}
+{"browser":"Safari","version":"18.1","release_date":"2024-10-28"}
+{"browser":"Safari","version":"18.2","release_date":"2024-12-11"}
+{"browser":"Safari","version":"18.3","release_date":"2025-01-27"}
+{"browser":"Safari on iOS","version":"1","release_date":"2007-06-29"}
+{"browser":"Safari on iOS","version":"2","release_date":"2008-07-11"}
+{"browser":"Safari on iOS","version":"3","release_date":"2009-06-17"}
+{"browser":"Safari on iOS","version":"3.2","release_date":"2010-04-03"}
+{"browser":"Safari on iOS","version":"4","release_date":"2010-06-21"}
+{"browser":"Safari on iOS","version":"4.2","release_date":"2010-11-22"}
+{"browser":"Safari on iOS","version":"5","release_date":"2011-10-12"}
+{"browser":"Safari on iOS","version":"6","release_date":"2012-09-10"}
+{"browser":"Safari on iOS","version":"7","release_date":"2013-09-18"}
+{"browser":"Safari on iOS","version":"8","release_date":"2014-09-17"}
+{"browser":"Safari on iOS","version":"9","release_date":"2015-09-16"}
+{"browser":"Safari on iOS","version":"9.3","release_date":"2016-03-21"}
+{"browser":"Safari on iOS","version":"10","release_date":"2016-09-13"}
+{"browser":"Safari on iOS","version":"10.3","release_date":"2017-03-27"}
+{"browser":"Safari on iOS","version":"11","release_date":"2017-09-19"}
+{"browser":"Safari on iOS","version":"11.3","release_date":"2018-03-29"}
+{"browser":"Safari on iOS","version":"12","release_date":"2018-09-17"}
+{"browser":"Safari on iOS","version":"12.2","release_date":"2019-03-25"}
+{"browser":"Safari on iOS","version":"13","release_date":"2019-09-19"}
+{"browser":"Safari on iOS","version":"13.4","release_date":"2020-03-24"}
+{"browser":"Safari on iOS","version":"14","release_date":"2020-09-16"}
+{"browser":"Safari on iOS","version":"14.5","release_date":"2021-04-26"}
+{"browser":"Safari on iOS","version":"15","release_date":"2021-09-20"}
+{"browser":"Safari on iOS","version":"15.1","release_date":"2021-10-25"}
+{"browser":"Safari on iOS","version":"15.2","release_date":"2021-12-13"}
+{"browser":"Safari on iOS","version":"15.3","release_date":"2022-01-26"}
+{"browser":"Safari on iOS","version":"15.4","release_date":"2022-03-14"}
+{"browser":"Safari on iOS","version":"15.5","release_date":"2022-05-16"}
+{"browser":"Safari on iOS","version":"15.6","release_date":"2022-07-20"}
+{"browser":"Safari on iOS","version":"16","release_date":"2022-09-12"}
+{"browser":"Safari on iOS","version":"16.1","release_date":"2022-10-24"}
+{"browser":"Safari on iOS","version":"16.2","release_date":"2022-12-13"}
+{"browser":"Safari on iOS","version":"16.3","release_date":"2023-01-23"}
+{"browser":"Safari on iOS","version":"16.4","release_date":"2023-03-27"}
+{"browser":"Safari on iOS","version":"16.5","release_date":"2023-05-18"}
+{"browser":"Safari on iOS","version":"16.6","release_date":"2023-07-24"}
+{"browser":"Safari on iOS","version":"17","release_date":"2023-09-18"}
+{"browser":"Safari on iOS","version":"17.1","release_date":"2023-10-25"}
+{"browser":"Safari on iOS","version":"17.2","release_date":"2023-12-11"}
+{"browser":"Safari on iOS","version":"17.3","release_date":"2024-01-22"}
+{"browser":"Safari on iOS","version":"17.4","release_date":"2024-03-05"}
+{"browser":"Safari on iOS","version":"17.5","release_date":"2024-05-13"}
+{"browser":"Safari on iOS","version":"17.6","release_date":"2024-07-29"}
+{"browser":"Safari on iOS","version":"18","release_date":"2024-09-16"}
+{"browser":"Safari on iOS","version":"18.1","release_date":"2024-10-28"}
+{"browser":"Safari on iOS","version":"18.2","release_date":"2024-12-11"}
+{"browser":"Safari on iOS","version":"18.3","release_date":"2025-01-27"}

@@ -1,0 +1,16 @@
+{
+  "name": "baseline-bq",
+  "version": "1.0.0",
+  "description": "Syncing Baseline data with BigQuery",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "update": "npm update web-features --save",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Viscomi",
+  "license": "ISC",
+  "dependencies": {
+    "web-features": "^2.23.0"
+  }
+}
