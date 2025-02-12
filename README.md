@@ -1,6 +1,6 @@
 # baseline-bq
 
-Generates newline-delimited JSON files for easy importing into BigQuery
+Generates newline-delimited JSON files of web feature statuses for easy importing into BigQuery
 
 1. Install or update dependencies
 
